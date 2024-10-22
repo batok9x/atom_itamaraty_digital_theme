@@ -1,0 +1,8 @@
+Oct 20 11:10:14 symfony [crit] {sfConfigurationException} The component does not exist: "menu", "Array".
+Oct 20 11:10:14 symfony [crit] {sfConfigurationException} The component does not exist: "menu", "Array".
+Oct 20 11:10:15 symfony [crit] {sfConfigurationException} The component does not exist: "menu", "Array".
+Oct 20 11:10:15 symfony [crit] {sfConfigurationException} The component does not exist: "menu", "Array".
+Oct 20 16:30:20 symfony [crit] {sfConfigurationException} The component does not exist: "default", "bs2DeprecationMessage".
+Oct 20 16:30:21 symfony [crit] {sfConfigurationException} The component does not exist: "default", "bs2DeprecationMessage".
+Oct 20 16:30:21 symfony [crit] {sfConfigurationException} The component does not exist: "default", "bs2DeprecationMessage".
+Oct 20 16:30:30 symfony [crit] {sfConfigurationException} The component does not exist: "default", "bs2DeprecationMessage".

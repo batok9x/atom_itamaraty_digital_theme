@@ -1,0 +1,22 @@
+# Ansible managed file, do not edit directly
+
+all:
+
+  upload_limit: -1
+
+  cache_engine: sfMemcacheCache
+  cache_engine_param:
+    storeCacheInfo: yes
+    prefix: atom
+    host: 127.0.0.1
+    port: 11211
+    persistent: yes
+
+  read_only: False
+
+
+
+
+
+
+
